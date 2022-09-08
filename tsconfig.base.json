@@ -13,8 +13,10 @@
     "lib": ["es2017", "dom"],
     "skipLibCheck": true,
     "skipDefaultLibCheck": true,
-    "baseUrl": ".",
-    "paths": {}
+    "baseUrl": "."
+    // "paths": {
+    //   "@org/component-library": ["libs/component-library/src/index.ts"]
+    // }
   },
   "exclude": ["node_modules", "tmp"]
 }
