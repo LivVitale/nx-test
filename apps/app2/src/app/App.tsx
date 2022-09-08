@@ -8,6 +8,7 @@ const StyledApp = styled.div`
 export function App() {
   return (
     <StyledApp>
+      <h1>APP 2</h1>
       <NxWelcome title="app2" />
     </StyledApp>
   );
